@@ -3,4 +3,4 @@
  */
 
 var SSPlanet = module.require("ss-planet");
-console.log(SSPlanet);
+console.log(new SSPlanet());
