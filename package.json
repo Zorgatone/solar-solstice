@@ -1,7 +1,10 @@
 {
   "name": "solar-solstice",
   "version": "0.0.1-pre-alpha",
+  "description": "Solar Solstice - browsergame",
+  "repository": "https://github.com/Zorgatone/solar-solstice",
   "dependencies": {
-    "node-schedule": ">=0.2.6"
+    "node-schedule": ">=0.2.6",
+    "ss-planet": "0.0.1-pre-alpha"
   }
 }
